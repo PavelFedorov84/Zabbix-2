@@ -35,7 +35,7 @@
 
 ### Задание 3
 
-![Задание 3](![Задание1](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S3.jpg)
+![Задание 3](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S3.jpg)
 
 ### Задание 4
 
