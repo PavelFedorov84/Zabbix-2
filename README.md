@@ -63,10 +63,6 @@ fi
 ```
 ![Задание 6](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S6.jpg)
 
-
-
-### Задание 7
-
 ### Задание 8
 ![Задание 8](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S8.jpg)
 ![Задание 8.1](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S8.1.jpg)
