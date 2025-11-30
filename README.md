@@ -46,3 +46,44 @@
 
 ![Задание 5](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S5.jpg)
 
+
+### Задание 6
+
+```
+#!/bin/bash
+ARG=$1
+
+if [ "$ARG" -eq 1 ]; then
+    echo "fedorovpf"
+elif [ "$ARG" -eq 2 ]; then
+    date +%Y-%m-%d
+else
+    echo "Invalid argument"
+fi
+```
+![Задание 6](https://github.com/PavelFedorov84/Zabbix-2/blob/main/img/S6.jpg)
+
+
+
+### Задание 7
+
+### Задание 8
+
+
+### Задание 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
